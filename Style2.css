@@ -1,0 +1,30 @@
+body {
+    font-size: 11pt;
+    font-family: 'Noto Sans Thai', sans-serif;
+    text-align: center
+}
+
+h1 {
+  font-family: 'Noto Sans Thai', sans-serif;
+  font-weight: 100%
+  font-size: 50px
+}
+
+form {
+  font-family: 'Noto Sans Thai', sans-serif;
+  font-weight: 100%
+  font-size: 15;
+}
+
+tbody {
+  font-family: 'Noto Sans Thai', sans-serif;
+  font-weight: 100%
+}
+
+
+button {
+  font-family: 'Noto Sans Thai', sans-serif;
+  text-align: center
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@300&display=swap');
